@@ -8,3 +8,5 @@ TOPICS:
 ```
 ## DATASET
 https://www.kaggle.com/kmalit/bank-customer-churn-prediction
+
+![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
